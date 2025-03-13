@@ -4,10 +4,12 @@ Your task is to reverse-engineer the encryption scheme and retrieve the original
 
 # Hints:
 Understanding byte-level manipulations will be essential for decryption.
+
 The final flag follows the format SeaTF{...}.
 	
 # Given Data:
 Encrypted Username Hint: VHJ1c3QgaXMgZ2l2ZW4sIGJ1dCBuZXZlciByZXR1cm5lZC4gT25jZSBpbnNpZGUsIGFsbCBkb29ycyBhcmUgb3Blbi4=
+
 challenge2_bin (executable file)
 
 # Files Provided:
